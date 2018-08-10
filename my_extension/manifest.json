@@ -1,0 +1,9 @@
+{
+    "name":"Upper words",
+    "version":"1.0",
+    "descriprion":"Create upper words",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
